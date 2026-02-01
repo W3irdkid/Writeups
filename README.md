@@ -1,5 +1,4 @@
-# CTF_Writeups
-
+# Write-ups List
 As the name suggests, here I will be posting write-ups of CTFs that I have completed.
 
 | Name | Difficulty |
